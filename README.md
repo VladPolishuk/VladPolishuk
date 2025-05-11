@@ -50,10 +50,13 @@
 
 ## 🤝 Контакты
 
-[![Telegram](https://img.shields.io/badge/-Darkvader__1-2CA5E0?style=flat&logo=telegram)](https://t.me/Darkvader_1)  
-📧 Email: polishukvlad00@gmail.com
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/f4/04/71/f4047136eed63d88be00b61a80c00502.jpg" alt="Banner" width="100%">
+<p align="left">
+  <a href="https://t.me/Darkvader_1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="Telegram"/>
+  </a>
+  <a href="mailto:polishukvlad00@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/>
+  </a>
 </p>
+
 
