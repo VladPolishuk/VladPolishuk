@@ -54,6 +54,6 @@
 📧 Email: polishukvlad00@gmail.com
 
 <p align="center">
-  <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+  <img src="https://imgur.com/a/XA8ikxZ" alt="Banner" width="50%">
 </p>
 
