@@ -15,7 +15,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
+![C#](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" />)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows)
 ![ScanOVAL](https://img.shields.io/badge/-ScanOVAL-333?style=flat)
