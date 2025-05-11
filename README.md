@@ -41,13 +41,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 📌 Проекты
 
 - 🛡️ **Анализ сетевой безопасности** — Поиск уязвимостей в корпоративной сети с использованием Scaner VS  
