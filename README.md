@@ -53,3 +53,6 @@
 [![Telegram](https://img.shields.io/badge/-Darkvader__1-2CA5E0?style=flat&logo=telegram)](https://t.me/Darkvader_1)  
 📧 Email: polishukvlad00@gmail.com
 
+<img src="https://imgur.com/a/XA8ikxZ" alt="баннер" style="width:100%;"/>
+
+
