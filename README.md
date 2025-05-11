@@ -48,17 +48,6 @@
 
 ---
 
-## 🤝 Контакты
-
-<p align="left">
-  <a href="https://t.me/Darkvader_1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:polishukvlad00@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
-  </a>
-</p>
 
 
 
