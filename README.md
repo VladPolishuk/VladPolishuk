@@ -21,7 +21,6 @@
 ![ScanOVAL](https://img.shields.io/badge/-ScanOVAL-333?style=flat)
 ![Scaner VS](https://img.shields.io/badge/-Scaner%20VS-333?style=flat)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 ---
 
 ## 🧰 Инструменты
